@@ -1,8 +1,6 @@
-# Soal Ujian Purwadhika Back-End Dev
+# Soal Ujian Ajita Back-End Dev
 
-![Lintang_Purwadhika](https://static.wixstatic.com/media/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png/v1/fill/w_246,h_39,al_c,usm_0.66_1.00_0.01/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png)
-
-**Materi Back End Web Dev dapat diakses di [klik sini!](https://github.com/LintangWisesa/Purwadhika-JC05-03_BackEndWeb)**
+![Ajita](https://pbs.twimg.com/profile_images/621497344849108992/HOhnHdPX_400x400.jpg)
 
 #
 
@@ -28,9 +26,9 @@
 
 #
 
-### **Soal 2 - Express & MongoDB**
+### **Soal 2 - PHP & MongoDB**
 
-Buatlah sebuah project back-end NodeJS (Express) sederhana yang mampu mengakses database MongoDB, dengan spesifikasi route sebagai berikut:
+Buatlah sebuah project back-end PHP sederhana yang mampu mengakses database MongoDB, dengan spesifikasi route sebagai berikut:
 
 - __*POST /data*__ &rarr; akan memasukkan data ke collection **"data"** di database **"dataCPU"**. Data yang diinput adalah data seputar sistem operasi yang digunakan user, mencakup: **nama CPU, tipe OS, platform OS, versi rilis OS, RAM tersisa** dan **RAM total**. Data yang diinput tidak perlu dideklarasikan di _**body request**_.
 
@@ -52,9 +50,9 @@ Buatlah sebuah project back-end NodeJS (Express) sederhana yang mampu mengakses 
 
 #
 
-### **Soal 3 - Express & MySQL**
+### **Soal 3 - PHP & MySQL**
 
-Buatlah sebuah project back-end NodeJS (Express) sederhana yang mampu mengakses database MySQL, dengan spesifikasi route sebagai berikut:
+Buatlah sebuah project back-end PHP sederhana yang mampu mengakses database MySQL, dengan spesifikasi route sebagai berikut:
 
 - __*POST /karyawan*__ &rarr; akan memasukkan data ke tabel **"karyawan"** di database **"toko"**. Data yang diinput via _**body request**_ hanyalah **nama** dan **tglLahir** (dalam _**JSON**_), sebagai contoh:
 
@@ -78,12 +76,3 @@ Buatlah sebuah project back-end NodeJS (Express) sederhana yang mampu mengakses 
 #
 
 ### *__#HappyCoding__*
-
-#### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
-
-[Facebook](https://www.facebook.com/lintangbagus) | 
-[Twitter](https://twitter.com/Lintang_Wisesa) |
-[Google+](https://plus.google.com/u/0/+LintangWisesa1) |
-[Youtube](https://www.youtube.com/user/lintangbagus) | 
-:octocat: [GitHub](https://github.com/LintangWisesa) |
-[Hackster](https://www.hackster.io/lintangwisesa)
